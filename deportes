@@ -1,0 +1,5 @@
+#EXTM3U 
+#EXTINF:-1 group-title="DEPORTES",ESPN1
+https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(ESPN)/index.m3u8
+#EXTINF:-1 group-title="DEPORTES",ESPN2
+https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(ESPN2)/index.m3u8
